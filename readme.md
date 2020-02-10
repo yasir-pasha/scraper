@@ -1,4 +1,4 @@
-#**Web Scraper - Python**
+#Web Scraper - Python
 
 Introduction
 ===========
